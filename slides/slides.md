@@ -373,3 +373,10 @@ and conversely demonstrate performance improvement over time if you manage that.
 <div style="float: left; width: 100%; margin-top: 48px;">
 This is less effort than you think!
 </div>
+
+-
+
+## Upcoming events
+
+- [CCP-TEPP Docathon: 2026-03-18&ndash;20, University of Warwick](https://indico.global/e/ccp-tepp-docathon-2026)
+- [CCP-TEPP Summer School: 2026-06-29&ndash;2026-07-03, Swansea University](https://indico.global/e/ccp-tepp-school-2026)
