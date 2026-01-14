@@ -36,6 +36,23 @@ is going to read my code?
 
 -
 
+<!-- .element data-background-image="images/reader.jpg" -->
+
+Notes:
+If you're making your code publicly available for reproducibility and openness
+(and you should!),
+your code is a way you are communicating your intent to those reading your work.
+Even if while writing it you don't think you'll be releasing it,
+it is still worth writing with this in mind,
+in case you change your mind later,
+or the code is audited for other reasons.
+Things you can think about include
+what messages you might unintentionally communicate with,
+for example,
+hardcoded constants or magic numbers.
+
+-
+
 <!-- .element data-background-image="images/rse.jpg" -->
 
 Notes:
